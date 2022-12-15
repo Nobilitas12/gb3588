@@ -1,4 +1,9 @@
-﻿void Test (int i, int j)
+﻿// Напишите программу, которая принимает 
+// на вход два числа и проверяет, является 
+// ли одно число квадратом другого.
+
+
+void Test (int i, int j)
 {
     bool result = (i/j==j);
     if(result==true) Console.WriteLine("Number "+i+" is a square of number "+j);

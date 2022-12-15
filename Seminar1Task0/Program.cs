@@ -1,4 +1,8 @@
-﻿string? num1line = Console.ReadLine();
+﻿// Задача №0 
+// Напишите программу, которая на вход принимает 
+// число и выдаёт его квадрат (число умноженное на 
+// само себя).
+string? num1line = Console.ReadLine();
 string? num2line = Console.ReadLine();
 
 if(num1line!=null&&num2line!=null)

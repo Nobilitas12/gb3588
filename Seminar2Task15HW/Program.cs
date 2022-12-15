@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Enter 1 number from 1 to 7");
+﻿// №15 Напишите программу, которая принимает на вход цифру, обозначающую день недели, 
+// и проверяет, является ли этот день выходным.
+
+Console.WriteLine("Enter 1 number from 1 to 7");
 
 int numberA = int.Parse(Console.ReadLine()??"0");
 

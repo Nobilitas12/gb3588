@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Enter 1 number");
+﻿// №13 Напишите программу, которая выводит третью цифру заданного числа или сообщает, 
+// что третьей цифры нет
+
+Console.WriteLine("Enter 1 number");
 
 int numberA = int.Parse(Console.ReadLine()??"0");
 

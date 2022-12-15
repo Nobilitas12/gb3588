@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Enter 1 number");
+﻿// Напишите программу, которая принимает 
+// на вход число и проверяет, кратно ли оно 
+// одновременно 7 и 23.
+
+Console.WriteLine("Enter 1 number");
 
 int numberA = int.Parse(Console.ReadLine()??"0");
 

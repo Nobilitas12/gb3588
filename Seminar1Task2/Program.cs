@@ -1,4 +1,9 @@
-﻿string? numberA = Console.ReadLine();
+﻿// Задача №3 
+// Напишите программу, которая будет выдавать 
+// название дня недели по заданному номеру.
+
+
+string? numberA = Console.ReadLine();
 if(numberA!=null)
 {
     string[] weekDay = new string[7];
